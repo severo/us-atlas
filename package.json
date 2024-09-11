@@ -1,7 +1,7 @@
 {
-  "name": "us-atlas",
-  "version": "3.0.1",
-  "description": "Pre-built TopoJSON from the U.S. Census Bureau.",
+  "name": "@severo_bo/us-atlas-2023",
+  "version": "4.0.0",
+  "description": "Pre-built TopoJSON from the U.S. Census Bureau, version 2023.",
   "license": "ISC",
   "keywords": [
     "topojson",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/topojson/us-atlas.git"
+    "url": "https://github.com/severo/us-atlas-2023.git"
   },
   "files": [
     "*-10m.json"
